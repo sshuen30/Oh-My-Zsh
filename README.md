@@ -26,3 +26,13 @@ nano ~/.zshrc
 
 ![Screenshot 2024-02-24 002612](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/32f6cfcd-07ee-4a78-916d-cc3bf3374131)
 
+- Check what is the current shell
+```bash
+echo $SHELL
+```
+
+- Change bash shell to Zsh shell
+```bash
+chsh -s /bin/zsh
+```
+
