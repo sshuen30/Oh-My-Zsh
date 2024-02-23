@@ -22,7 +22,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```bash
 nano ~/.zshrc
 ```
-![Screenshot 2024-02-24 002342](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/997ff4cc-c9de-47ae-8b2e-bd59f30f5181 = 400x200)
+![Screenshot 2024-02-24 002342](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/997ff4cc-c9de-47ae-8b2e-bd59f30f5181)
 
-![Screenshot 2024-02-24 002612](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/32f6cfcd-07ee-4a78-916d-cc3bf3374131 = 400x200)
+![Screenshot 2024-02-24 002612](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/32f6cfcd-07ee-4a78-916d-cc3bf3374131)
 
