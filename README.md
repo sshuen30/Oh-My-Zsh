@@ -1,9 +1,9 @@
-- Install Zsh
+## Install Zsh
 ```bash
 sudo apt install zsh
 ```
 
-- Install Oh-My-Zsh
+## Install Oh-My-Zsh
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
