@@ -24,5 +24,5 @@ nano ~/.zshrc
 ```
 ![Screenshot 2024-02-24 002342](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/997ff4cc-c9de-47ae-8b2e-bd59f30f5181)
 
-
+![Screenshot 2024-02-24 002612](https://github.com/sshuen30/Oh-My-Zsh/assets/40738215/32f6cfcd-07ee-4a78-916d-cc3bf3374131)
 
