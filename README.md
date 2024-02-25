@@ -1,3 +1,8 @@
+## Install neofetch
+```bash
+sudo apt install neofetch
+```
+
 ## Install Zsh
 ```bash
 sudo apt install zsh
@@ -33,6 +38,8 @@ plugins=(
  zsh-syntax-highlighting
 )
 ```
+
+- Add neofetch at the end of the file
 
 - Check what is the current shell
 ```bash
