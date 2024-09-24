@@ -39,6 +39,11 @@ plugins=(
 )
 ```
 
+- Command to apply changes without exiting shell
+```bash
+source ~/.zshrc
+```
+
 - Check what is the current shell
 ```bash
 echo $SHELL
